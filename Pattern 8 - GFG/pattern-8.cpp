@@ -39,6 +39,10 @@ public:
     //  2     5      2
     //  3     3      3
     //  4     1      4
+    
+    //see space will be simple to apply
+    // it will just start from j=0 and always it will be j<i condition
+    //for stars it will be (2*n) - (2*i+1) 
 
 
 //{ Driver Code Starts.
