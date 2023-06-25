@@ -16,6 +16,7 @@ public:
         
         return sum;
     }
+    //see the notes written to understand
     
     //means see if we have to find all the multiples of individual numbers from 1 to n
     // long long ans=0,sum=0;
