@@ -8,7 +8,7 @@ class Solution {
   public:
     void printTriangle(int N) {
         // initial no. of spaces in row 1.
-      int spaces = 2*(N-1);
+      int spaces = 2*(N-1);//or int spaces=(2*n)-2;
       
       // Outer loop for the number of rows.
       for(int i=1;i<=N;i++){
